@@ -10,4 +10,4 @@
 # the UserInput function is then called in the "writePassword" function and can be displayed to the user.
 # event listener at the very bottom is to allow the user to click the "generate password" button before any of the prompt or confirm boxes pop up and will then run the "writePassword" function.
 ![image](./assets/images/website-screenshot.png)
-Click[link](https://nicoled1999.github.io/password-generator/) to go to my website
+Click[ here](https://nicoled1999.github.io/password-generator/) to go to my website
